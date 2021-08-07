@@ -1,14 +1,15 @@
-import React from 'react'
-import Button from '../Button/Button'
-import Navbar from '../Navbar/Navbar'
+import React from "react";
+import Header from "../Header/Header";
+import Navbar from "../Navbar/Navbar";
 
 function Home() {
-    return (
-        <div>
-            <Navbar/>
-            <Button/>
-        </div>
-    )
+  return (
+    <div>
+      <Navbar />
+      <Header />
+      
+    </div>
+  );
 }
 
-export default Home
+export default Home;
