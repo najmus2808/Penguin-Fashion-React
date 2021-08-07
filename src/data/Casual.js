@@ -1,5 +1,5 @@
- let casualData;
- export default  casualData = [
+let casualData;
+export default casualData = [
   {
     image: "https://nike-react-sanjida.netlify.app/images/image%205.png",
     name: "Nike Shoe",

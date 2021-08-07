@@ -1,20 +1,24 @@
-export default FormalShoes = [
+let formalData;
+export default formalData = [
   {
-    image: "https://robohash.org/rerumetqui.png?size=50x50&set=set1",
-    name: "Talia",
-    description: "Lipmann",
-    price: "$6.18",
+    image: "https://nike-react-sanjida.netlify.app/images/Mask%20Group.png",
+    name: "Prestige High Leather",
+    description:
+      "Ankle high, constructed from two bits of leather and with two or three high-lacing",
+    price: "$290",
   },
   {
-    image: "https://robohash.org/utetaut.png?size=50x50&set=set1",
-    name: "Mavra",
-    description: "Matzaitis",
-    price: "$9.87",
+    image: "https://nike-react-sanjida.netlify.app/images/Rectangle%2038.png",
+    name: "Slip-Out Formal Shoe",
+    description:
+      "Slip-ons are typically low, lace-less shoes. The style which is most commonly seen",
+    price: "$300",
   },
   {
-    image: "https://robohash.org/assumendautaut.png?size=50x50&set=set1",
-    name: "Lorry",
-    description: "Doogood",
-    price: "$9.31",
+    image: "https://nike-react-sanjida.netlify.app/images/Rectangle%2039.png",
+    name: "Slip-On Formal Shoe",
+    description:
+      "Slip-ons are typically low, lace-less shoes. The style which is most commonly seen",
+    price: "$280",
   },
 ];
