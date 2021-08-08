@@ -4,7 +4,7 @@ import img from '../../images/Penguin.png';
 
 function Header() {
   return (
-    <section className="head-sec">
+    <section className="head-sec" id="home">
       <div className="container">
         <div className="row">
           <div className="col-lg-6 col-12 pe-lg-5">

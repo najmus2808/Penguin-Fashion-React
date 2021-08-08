@@ -4,6 +4,7 @@ import Navbar from "../Navbar/Navbar";
 import CasualShoes from "../CasualShoes/CasualShoes";
 import FormalShoes from "../FormalShoes/FormalShoes";
 import About from "../About/About";
+import Contact from "../Contact/Contact";
 
 function Home() {
   return (
@@ -13,6 +14,7 @@ function Home() {
       <CasualShoes />
       <FormalShoes />
       <About />
+      <Contact/>
     </div>
   );
 }
